@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_brown">#a1665e</color>
+    <color name="brown">#503335</color>
+    <color name="dark_brown">#592f2a</color>
+    <color name="greyish_pink">#c88d94</color>
+    <color name="brownv1">#a07176</color>
+    <color name="brownv2">#8c6368</color>
+    <color name="brownv3">#785559</color>
+    <color name="brownv4">#64474a</color>
+    <color name="brownv5">#50383b</color>
+    <color name="brownv6">#3c2a2c</color>
+    <color name="brownv7">#281c1e</color>
+    <color name="brownv8">#140e0f</color>
+    <color name="gray_1">#5a4f51</color>
+    <color name="gray_2">#514749</color>
+    <color name="gray_3">#483f41</color>
+    <color name="gray_4">#3f3739</color>
+    <color name="gray_5">#362f31</color>
+    <color name="gray_6">#2d2829</color>
+    <color name="gray_7">#242020</color>
+    <color name="gray_8">#1b1818</color>
+    <color name="gray_9">#121010</color>
+    <color name="gray_gradient_1">#D3D3D3</color>
+    <color name="gray_gradient_2">#9E9E9E</color>
+    <color name="gray_gradient_3">#696969</color>
+    <color name="gray">#262626</color>
+    <color name="light_gray">#535353</color>
+    <color name="red">#FF0000</color>
+
+</resources>
